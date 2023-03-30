@@ -34,6 +34,10 @@ export default defineConfig({
             text: 'Git',
             link: '/front-end-engineering/Git'
           },
+          {
+            text: 'CSS工程化',
+            link: '/front-end-engineering/CSS工程化'
+          },
         ]
         // Front-end engineering
       },
