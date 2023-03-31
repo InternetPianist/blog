@@ -5,6 +5,7 @@ export default defineConfig({
   base: '/blog/',
   title: "Blog",
   description: "A Blog Site",
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
